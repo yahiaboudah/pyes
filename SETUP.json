@@ -1,0 +1,13 @@
+{
+    "name": "pyes",
+    "version":"0.1",
+    "description":"Extendscript to Python bridge",
+    "license":"GNU",
+    "long_description":"",
+    "author":"Yahia Boudah",
+    "author_email":"yahiabouda@hotmail.com",
+    "url":"",
+    "packages":["pyes"],
+    "install_requires":[],
+    "scripts":[]
+}
